@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Crowdfunding Stats*
 
-Submitted by: **Your Name Here**
+Submitted by: **Nell Brodkin**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunding Stats** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -15,18 +15,17 @@ The following **required** functionality is completed:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+No additional features are implemented.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nellbrodkin/web102_prework/blob/main/CrowdfundingSeaMonsterWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I faced was debugging syntax errors since I was refamiliarizing myself with JS.
 
 ## License
 
